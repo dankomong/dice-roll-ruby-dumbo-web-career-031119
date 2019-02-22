@@ -4,4 +4,5 @@
 
 def roll
   # code goes here
+  arr = (1..6)
 end
